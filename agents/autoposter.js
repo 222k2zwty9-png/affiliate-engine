@@ -1,0 +1,1 @@
+// autoposter agent placeholder
