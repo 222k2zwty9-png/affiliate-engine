@@ -1,2 +1,1 @@
-# affiliate-engine
-Automation Engine 
+Affiliate Engine v2 - Soft Redirect Version

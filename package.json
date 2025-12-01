@@ -1,0 +1,7 @@
+{
+  "name": "affiliate-engine-v2",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node agents/scheduler.js"
+  }
+}
